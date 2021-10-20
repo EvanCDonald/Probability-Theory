@@ -2,8 +2,8 @@
 
 I'm currently finishing up my PhD in mathematics (as of Fall 2021), specifically
 in probability theory.  Unsurprisingly, I have found that teaching helps my
-learning process.  So, I create some content lecture content every now and then.
- I intend to produce a full 2 year sequence worth of material following this
+learning process.  So, I create some lecture content every now and then. I
+intend to produce a full 2 year sequence worth of material following this
 tentative progression: 
 
 Course 1 - Probability space, random variables, expectation,
