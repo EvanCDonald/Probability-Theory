@@ -1,4 +1,4 @@
-# Probability-Theory Grad-level intro course on probability theory
+# Probability-Theory (Grad-level intro course on probability theory)
 
 I'm currently finishing up my PhD in mathematics (as of Fall 2021), specifically
 in probability theory.  Unsurprisingly, I have found that teaching helps my
@@ -6,12 +6,15 @@ learning process.  So, I create some content lecture content every now and then.
  I intend to produce a full 2 year sequence worth of material following this
 tentative progression: 
 
-Probability theory 1- 
+Course 1 - Probability space, random variables, expectation,
+variance, independence, laws of large numbers, convergence in
+distribution, characteristic functions, central limit theorems, 
 
-Probability theory 2- 
+Course 2-  discrete time stochastic processes, optional times,
+stopping times, martingales, markov chains 
 
-Continuus time processes and stochastic integration-
+Course 3-continuus time processes, brownian motion, stochastic integration
 
-SDEs and further topics
+Course 4- SDEs and further topics
 
 
