@@ -10,10 +10,11 @@ Course 1 - Probability space, random variables, expectation,
 variance, independence, laws of large numbers, convergence in
 distribution, characteristic functions, central limit theorems, 
 
-Course 2-  discrete time stochastic processes, optional times,
+Course 2-  discrete time stochastic processes including: optional times,
 stopping times, martingales, markov chains 
 
-Course 3-continuus time processes, brownian motion, stochastic integration
+Course 3-continuus time stochastic processes (same topics in discrete time,
+extended to continuous-time case), brownian motion, stochastic integration
 
 Course 4- SDEs and further topics
 
