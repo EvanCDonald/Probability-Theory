@@ -1,4 +1,4 @@
-# Probability-Theory (Grad-level intro course on probability theory)
+# Probability-Theory (Grad-level courses on probability theory)
 
 I'm currently finishing up my PhD in mathematics (as of Fall 2021), specifically
 in probability theory.  Unsurprisingly, I have found that teaching helps my
