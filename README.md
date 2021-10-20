@@ -6,8 +6,8 @@ learning process.  So, I create some content lecture content every now and then.
  I intend to produce a full 2 year sequence worth of material following this
 tentative progression: 
 
-Probability theory 1- 
-Probability theory 2- 
-Continuus time processes and stochastic integration-
-SDEs and further topics
+Probability theory 1- \\
+Probability theory 2- \\
+Continuus time processes and stochastic integration-\\
+SDEs and further topics\\
 
